@@ -4,7 +4,8 @@
 [![Qt](https://img.shields.io/badge/framework-Qt-red)](https://www.qt.io/product/framework)
 
 ## Overview
-A cute teddy bear shaped calculator for any children to have fun making calculations.
+A cute teddy bear shaped calculator for any children to have fun making calculations.<br><br>
+![Screenshot](images/calculator.png)
 
 ## Prerequisites
 Qt Creator and any Qt version starting with 5.13
