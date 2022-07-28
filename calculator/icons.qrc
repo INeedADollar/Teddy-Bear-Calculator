@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/settings_icon.png</file>
+        <file>icons/bula-mare-albastra.png</file>
+        <file>icons/bula-mare-galbena.png</file>
+        <file>icons/bula-mare-mov.png</file>
+        <file>icons/bula-mare-rosie.png</file>
+        <file>icons/bula-mare-verde.png</file>
+        <file>icons/bula-mica-albastra.png</file>
+        <file>icons/bula-mica-galbena.png</file>
+        <file>icons/bula-mica-mov.png</file>
+        <file>icons/bula-mica-rosie.png</file>
+        <file>icons/bula-mica-verde.png</file>
+        <file>icons/honey.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/select-all.png</file>
+        <file>icons/sapca.png</file>
+        <file>icons/funda.png</file>
+        <file>icons/bot.png</file>
+        <file>icons/1x-#000000.png</file>
+        <file>icons/1x-#ffffff.png</file>
+        <file>icons/x-2-#000000.png</file>
+        <file>icons/x-2-#ffffff.png</file>
+        <file>icons/x-3-#000000.png</file>
+        <file>icons/x-3-#ffffff.png</file>
+        <file>icons/x-y-#000000.png</file>
+        <file>icons/x-y-#ffffff.png</file>
+    </qresource>
+</RCC>
